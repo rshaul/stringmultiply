@@ -1,0 +1,6 @@
+D:\Devel\StringMultiplication\bin\Debug\StringMultiplication.XML
+D:\Devel\StringMultiplication\bin\Debug\StringMultiplication.exe
+D:\Devel\StringMultiplication\bin\Debug\StringMultiplication.pdb
+D:\Devel\StringMultiplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Devel\StringMultiplication\obj\x86\Debug\StringMultiplication.exe
+D:\Devel\StringMultiplication\obj\x86\Debug\StringMultiplication.pdb
